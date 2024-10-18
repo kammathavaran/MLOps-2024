@@ -1,2 +1,2 @@
 This is an example text file.
-It has two lines of text. 
+The second line is complete changed after the edit on this branch. 
