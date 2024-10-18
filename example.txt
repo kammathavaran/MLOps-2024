@@ -1,2 +1,3 @@
 The text content was replaced entirely.
 This is completely a new file now. 
+The second line is complete changed after the edit on this branch. 
