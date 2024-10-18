@@ -1,2 +1,2 @@
-This is an example text file.
-It has two lines of text. 
+The text content was replaced entirely.
+This is completely a new file now. 
