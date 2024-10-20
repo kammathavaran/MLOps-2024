@@ -8,4 +8,4 @@ WORKDIR /app
 COPY . /app
 
 # run start.py using python
-CMD ["python", "start.py"] 
+CMD ["python", "hello.py"] 
